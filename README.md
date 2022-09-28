@@ -5,11 +5,16 @@
 *Files*:
 
     Titanic
+    
            views.py: code for generating prediction using model and showing result to the user.
+    
            machine learning model :titanic_survival_ml_model.sav:scalar.sav
+           
            urls.py : specifiying the url and page connection
+
     templates: contains HTML code for taking input from user and showing the output to the user.
-    machine learning.py code for developing dateset preperation and model training
+    
+    machine learning.py: code for developing dateset preperation and model training
     
 *Libraries and framework used*:
 
