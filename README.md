@@ -1,8 +1,8 @@
-# Machine Learning - Django Web App
+# *Machine Learning - Django Web App*
 
     logistic regression model was trained on Titanic dataset and deployed using Django to predict if a person can survive or not.
 
-*Files*:
+# *Files*:
 
     Titanic
     
@@ -16,7 +16,7 @@
     
     machine learning.py: code for developing dateset preperation and model training
     
-*Libraries and framework used*:
+# *Libraries and framework used*:
 
     pandas           == 1.5.0
     numpy            == 1.23
@@ -24,7 +24,7 @@
     HTML,CSS,django  == 2.2
     python           == 3.8
 
-*Webapp and deployment:*
+# *Webapp and deployment:*
 
     this application contains 2 pages
     
